@@ -1,2 +1,2 @@
 #!/bin/bash
-Is -I 1-who_am_i
+ls -hl 1-who_am_i | tr -s ' ' | cut -f 3 -d' '
