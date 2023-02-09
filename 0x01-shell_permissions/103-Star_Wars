@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r a+x ./ -type d
+telnet towel.blinkenlights.nl
