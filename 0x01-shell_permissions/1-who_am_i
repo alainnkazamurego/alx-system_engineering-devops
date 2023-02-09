@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -hl 1-who_am_i | awk '{print $3}'
+whoami
