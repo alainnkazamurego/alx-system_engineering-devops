@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -r a+x */
+chown --from=guillaume betty hello
