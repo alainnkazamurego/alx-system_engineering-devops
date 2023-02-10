@@ -1,2 +1,0 @@
-#!/bin/bash
-chmod -r a+x ./ -type d
